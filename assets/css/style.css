@@ -45,9 +45,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
+/*removed p CSS rule as it was all being overridden anyway*/
 
 .hero {
     height: 800px;
@@ -58,6 +56,12 @@ p {
     background-position: center;
 }
 
+main {  /* replaced .content with main */
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -66,12 +70,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-main {  /* replaced .content with main */
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .benefits {
