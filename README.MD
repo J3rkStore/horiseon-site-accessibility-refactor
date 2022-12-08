@@ -12,4 +12,5 @@ MIT
 
 The website is hosted at https://j3rkstore.github.io/horiseon-site-accessibility-refactor/
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/horiseon-site-screenshot.PNG)
+## Screenshot of site
+![image](https://user-images.githubusercontent.com/59859758/206332418-1f0b0cf1-7d68-4f27-89b2-219d1410b958.png)
